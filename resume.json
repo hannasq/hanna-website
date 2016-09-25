@@ -1,68 +1,91 @@
 {
   "basics": {
-    "name": "Luay Bseiso",
-    "label": "Software Developer",
-    "picture": "http://www.gravatar.com/avatar/809ceae15ad6602fb5ea26a641ca8b52.png",
-    "email": "luaybs@gmail.com",
+    "name": "Hanna S. Qubti",
+    "label": "Architect",
+    "picture": "",
+    "email": "hannaqubti@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "TBD",
+    "summary": "I am a creative, determined, and passionate architect. I have been in love with architecture since I was twelve years old. I am a dedicated team player with promising leading capabalities. I enjoy excellent communication and collaboration skills. In addition, I aquire a strong sense of design and problem solving. I am very passionate about conceptual visualization and have a keen eye for detail.",
+    "location": {
+      "address": "Deir Ghbar",
+      "postalCode": "",
+      "city": "Amman",
+      "countryCode": "JO",
+      "region": ""
+    },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "luaybs",
-        "url": "https://www.github.com/luaybs"
-      },
-      {
         "network": "Twitter",
-        "username": "luaybs",
-        "url": "https://www.twitter.com/luaybs"
+        "username": "hannasq",
+        "url": "https://www.twitter.com/hannasq"
       }
     ]
   },
   "work": [
     {
-      "company": "ButterCloud",
-      "position": "Software Developer",
-      "website": "http://www.buttercloud.com/",
-      "startDate": "2012-03",
-      "endDate": "",
-      "summary": "ButterCloud is a software company based in Jordan that uses creative technology solutions to build ideas, develop web and mobile products and grow businesses.",
-      "highlights": [
-        "Built and maintained custom B2B systems that span multiple industries including medical, real estate, and event management.",
-        "Built features for and maintained Tizmos.com, an in-house online resource sharing product tailored for teachers and students.",
-        "Built in-house products that solve problems related to Customer Requirement Gathering, Marketing Resource Management, and Resource Planning.",
-        "Built and released StripeTester, an open source library that provides a way to test Stripe webhooks locally."
-      ]
-    }
-  ],
-  "volunteer": [
+      "company": "Reich und Wamsar GbR, Düsseldorf, DE",
+      "position": "Architecture Intern",
+      "website": "http://www.reichundwamser.de/",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-01",
+      "summary": "I worked on various projects both in exterior and interior architecture. Ranging from ski resort compound named MATLAS in Russia containing two five star hotels, several motels, shopping malls, restaurants, playing fields, and a spa. In addition to a group of duty free retailer stores in Oslo International Airport, Norway, belonging to prominent nordic fashion brands like GANT, PEAK PERFORMANCE, and BERGANZ. ",
+      "highlights": []
+    },
     {
-      "organization": "Rails Girls Amman",
-      "position": "Mentor",
-      "website": "http://railsgirls.com/amman",
-      "startDate": "2014-12-19",
-      "endDate": "2014-12-20",
-      "summary": "Rails Girls Amman is a free programming workshop that aims at teaching girls how to make websites using Ruby on Rails.",
+      "company": "TURATH: Architecture & Urban Design Consultants, Amman, JO",
+      "position": "Architecture Intern",
+      "website": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-01",
+      "summary": "During my internship at TURATH I helped in the detail construction drawings or two projects, a mosque, and a house. I also carried an intensive research on rammed earth construction methodologies. In addition, I was also lucky to have worked on the conceptual phase of the Al Shaumari Wildlife Reserve Visitor Center in Al-Azraq, JO.",
       "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "Princess Sumaya University for Technology",
-      "area": "Computer Science",
+      "institution": "German Jordanian University",
+      "area": "Architecture",
       "studyType": "Bachelor",
-      "startDate": "2010-10",
-      "endDate": "2015-06",
+      "startDate": "2011-02-01",
+      "endDate": "2016-08-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Applied Sciences, Würzburg, DE",
+      "area": "Architecture",
+      "studyType": "Bachelor (exchange year)",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
       "gpa": "",
       "courses": []
     },
     {
       "institution": "Philadelphia National Schools",
-      "area": "IGCSE/GCE",
-      "studyType": "High School",
-      "startDate": "2004-09",
-      "endDate": "2010-06",
+      "area": "High School",
+      "studyType": "IGCSE/GCE",
+      "startDate": "2008-01-01",
+      "endDate": "2010-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "De La Salle College Freres",
+      "area": "High School",
+      "studyType": "a",
+      "startDate": "2006-01-01",
+      "endDate": "2008-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Terra Sancta College",
+      "area": "Middle School",
+      "studyType": "a",
+      "startDate": "1998-01-01",
+      "endDate": "2006-06-01",
       "gpa": "",
       "courses": []
     }
@@ -71,41 +94,91 @@
   "publications": [],
   "skills": [
     {
-      "name": "Full Stack Web Development",
-      "level": "Full Stack",
-      "keywords": [
-        "Ruby on Rails",
-        "Clojure",
-        "ClojureScript",
-        "RSpec",
-        "ReactJS",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "name": "Sketch Up",
+      "level": "aa",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "Revit",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "Rhino",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "Vectorworks",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "Illustrator",
+      "level": "a",
+      "keywords": []
+    },
+    {
+      "name": "InDesign",
+      "level": "a",
+      "keywords": []
     }
   ],
   "languages": [
     {
       "language": "Arabic",
-      "fluency": "Native Speaker"
+      "fluency": "Mother Tongue"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "C"
+    },
+    {
+      "language": "French",
+      "fluency": "C"
     }
   ],
   "interests": [
     {
-      "name": "Open Source Software",
+      "name": "High-Rise Architecture",
       "keywords": []
     },
     {
-      "name": "Political Science",
+      "name": "Landscape Design",
       "keywords": []
     },
     {
-      "name": "Music history",
+      "name": "Urban Planning",
+      "keywords": []
+    },
+    {
+      "name": "Sustainable Architecture",
+      "keywords": []
+    },
+    {
+      "name": "Housing Units",
+      "keywords": []
+    },
+    {
+      "name": "Structural Analysis",
+      "keywords": []
+    },
+    {
+      "name": "Interior Architecture",
       "keywords": []
     }
   ],
