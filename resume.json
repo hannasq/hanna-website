@@ -4,9 +4,9 @@
     "label": "Architect",
     "picture": "https://en.gravatar.com/userimage/111732178/efc2adcd77a94e0e8773046f09d7bcd8.jpg?size=200",
     "email": "hannaqubti@gmail.com",
-    "phone": "",
+    "phone": "00962 79 0255390",
     "website": "",
-    "summary": "I am a creative, determined, and passionate architect. I have been in love with architecture since I was twelve years old. I am a dedicated team player with promising leading capabalities. I enjoy excellent communication and collaboration skills. In addition, I aquire a strong sense of design and problem solving. I am very passionate about conceptual visualization and have a keen eye for detail.",
+    "summary": "Click here to view my portfolio \n\n Graduation project animated (video) \n\n\n\n I am a creative, determined, and passionate architect. I have been in love with architecture since I was twelve years old. I am a dedicated team player with promising leading capabalities. I enjoy excellent communication and collaboration skills. In addition, I aquire a strong sense of design and problem solving. I am very passionate about conceptual visualization and have a keen eye for detail.\n\n\n Awards and Certificates \n\n • 03 - 05 Al Ra’ed Al Arabi Arts competition: Excellence in Arts (3 consecutive wins)\n\n • 2014 Masters of Architecture Exhibition: Representing Arch. Minoru Yamasaki (Organizer and Representing former World Trade Center in New York, USA)\n\n • 2015 Intercultural Dialog Towards Reclaiming Public Spaces within Metropolitan Areas: (Participation certificate in urban design workshop between GJU and TU Dortmund).\n\n • 2016 Shortlisted for the Jordanian Engineers Assosiation graduation project competition. (Top 16 projects out of 98 qualified projects in architecture nationwide).",
     "location": {
       "address": "Deir Ghbar",
       "postalCode": "",
@@ -16,9 +16,19 @@
     },
     "profiles": [
       {
+        "network": "Pinterest",
+        "username": "hannasq",
+        "url": "https://www.pinterest.com/hannasq"
+      },
+      {
         "network": "Twitter",
         "username": "hannasq",
-        "url": "https://www.twitter.com/hannasq"
+        "url": "https://twitter.com/hannasqubti"
+      },
+      {
+        "network": "Youtube",
+        "username": "HannaSQubti",
+        "url": "https://www.youtube.com/HannaSQubti"
       }
     ]
   },
@@ -35,7 +45,7 @@
     {
       "company": "TURATH: Architecture & Urban Design Consultants, Amman, JO",
       "position": "Architecture Intern",
-      "website": "",
+      "website": "https://www.facebook.com/Turath-Architecture-Urban-Design-Consultants-229729897088468/",
       "startDate": "2014-05-01",
       "endDate": "2014-07-01",
       "summary": "During my internship at TURATH I helped in the detail construction drawings or two projects, a mosque, and a house. I also carried an intensive research on rammed earth construction methodologies. In addition, I was also lucky to have worked on the conceptual phase of the Al Shaumari Wildlife Reserve Visitor Center in Al-Azraq, JO.",
@@ -74,7 +84,7 @@
     {
       "institution": "De La Salle College Freres",
       "area": "High School",
-      "studyType": "a",
+      "studyType": "",
       "startDate": "2006-01-01",
       "endDate": "2008-06-01",
       "gpa": "",
@@ -83,7 +93,7 @@
     {
       "institution": "Terra Sancta College",
       "area": "Middle School",
-      "studyType": "a",
+      "studyType": "",
       "startDate": "1998-01-01",
       "endDate": "2006-06-01",
       "gpa": "",
@@ -95,42 +105,42 @@
   "skills": [
     {
       "name": "Sketch Up",
-      "level": "aa",
+      "level": "",
       "keywords": []
     },
     {
       "name": "AutoCAD",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "Photoshop",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "Revit",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "Rhino",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "Vectorworks",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "Illustrator",
-      "level": "a",
+      "level": "",
       "keywords": []
     },
     {
       "name": "InDesign",
-      "level": "a",
+      "level": "",
       "keywords": []
     }
   ],
